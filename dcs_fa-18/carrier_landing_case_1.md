@@ -40,6 +40,6 @@
 
 ### Source
 
-[Youtube: FA-18C Hornet: Carrier CASE 1 Approach & Landing Tutorial \| DCS WORLD by Grim Reapers](https://www.youtube.com/watch?v=MnQYhNI5j9o)
+[[YouTube]FA-18C Hornet: Carrier CASE 1 Approach & Landing Tutorial \| DCS WORLD by Grim Reapers](https://www.youtube.com/watch?v=MnQYhNI5j9o)
 
 #### From 4:19, it's about comm setup.
