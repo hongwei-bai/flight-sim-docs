@@ -21,3 +21,7 @@ Indicates launch of an active radar homing missile (such as the AIM-120 AMRAAM).
 
 
 <img src="images_cheat_sheet/missiles_fullchart.png" width="800" height="166"/>
+
+##### ACM HOTAS Cheat Sheet
+
+<img src="images_acm/step1_chart.png" width="600"/>
